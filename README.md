@@ -5,7 +5,7 @@ The goal of the game is to flip the cards, remember their positions, and match a
 
 ---
 
-## ✨ Features
+## Features
 - Clean and responsive design
 - Flip animation on cards
 - Match-pair logic using JavaScript
